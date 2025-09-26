@@ -3,7 +3,8 @@
 ## 1. What problems did you finish?
 - Problem 1: Compute Distance Matrix using nested for loop naive approach, and Vectorized Implementation approach
 - Problem 2: Compute Correlation Matrix using nested for loop naive approach, and Vectorized Implementation approach
-- Problem 3: Entropy Computation 
+- Problem 3: Compute Distance and Correlation Matrices on sklearn datasets (Iris, Breast Cancer, Digits)
+
 
 All problems were tested and verified with benchmark datasets (Iris, Breast Cancer, Digits).  
 
